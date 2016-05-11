@@ -1,6 +1,4 @@
 # http://editorconfig.org
-# この定義がtrueの場合、これより上位フォルダの.editorconfigを順に読み込まなくなる
-# ※すなわち「このファイルが設定のrootである」という意味
 root = true
 
 [*]
