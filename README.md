@@ -3,7 +3,7 @@ starter skeleton for lintable and Jenkins friendly frontend projects.
 
 ## Setup
 
-* install [VS Code](https://code.visualstudio.com/) Version 1.0
+* install [VS Code](https://code.visualstudio.com/) Version 1.0 or later
 * install [VS Code extensions](https://code.visualstudio.com/docs/editor/extension-gallery).
   * ext install EditorConfig
   * ext install ESLint
@@ -29,7 +29,7 @@ reports
 ## Configuration
 
 * [VS Code .vscode/setting.json](https://github.com/acroquest/frontend-lint-seed/blob/master/.vscode/settings.json)
-* [.editconfig](https://github.com/acroquest/frontend-lint-seed/blob/master/.editconfig)
+* [.editconfig](https://github.com/acroquest/frontend-lint-seed/blob/master/.editorconfig)
 * [.eslintrc](https://github.com/acroquest/frontend-lint-seed/blob/master/.eslintrc)
 * [.csslintrc](https://github.com/acroquest/frontend-lint-seed/blob/master/.csslintrc)
 * [.htmlhintrc](https://github.com/acroquest/frontend-lint-seed/blob/master/.htmlhintrc)
