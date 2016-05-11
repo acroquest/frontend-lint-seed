@@ -28,11 +28,11 @@ reports
 
 ## Configuration
 
-* [VS Code .vscode/setting.json]()
-* [.editconfig]()
-* [.eslintrc]()
-* [.csslintrc]()
-* [.htmlhintrc]()
+* [VS Code .vscode/setting.json](https://github.com/acroquest/frontend-lint-seed/blob/master/.vscode/settings.json)
+* [.editconfig](https://github.com/acroquest/frontend-lint-seed/blob/master/.editconfig)
+* [.eslintrc](https://github.com/acroquest/frontend-lint-seed/blob/master/.eslintrc)
+* [.csslintrc](https://github.com/acroquest/frontend-lint-seed/blob/master/.csslintrc)
+* [.htmlhintrc](https://github.com/acroquest/frontend-lint-seed/blob/master/.htmlhintrc)
 
 ## Links
 
