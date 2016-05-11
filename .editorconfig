@@ -1,0 +1,15 @@
+# http://editorconfig.org
+# この定義がtrueの場合、これより上位フォルダの.editorconfigを順に読み込まなくなる
+# ※すなわち「このファイルが設定のrootである」という意味
+root = true
+
+[*]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+[*.md]
+trim_trailing_whitespace = false
