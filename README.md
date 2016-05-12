@@ -29,7 +29,7 @@ reports
 
 ## Configuration
 
-* [VS Code .vscode/setting.json](https://github.com/acroquest/frontend-lint-seed/blob/master/.vscode/settings.json)
+* [.vscode/setting.json](https://github.com/acroquest/frontend-lint-seed/blob/master/.vscode/settings.json)
 * [.editconfig](https://github.com/acroquest/frontend-lint-seed/blob/master/.editorconfig)
 * [.eslintrc](https://github.com/acroquest/frontend-lint-seed/blob/master/.eslintrc)
 * [.csslintrc](https://github.com/acroquest/frontend-lint-seed/blob/master/.csslintrc)
@@ -37,6 +37,7 @@ reports
 
 ## Links
 
+* [EditConfig](http://editorconfig.org/)
 * [ESLint Rules](http://eslint.org/docs/rules/)
 * [CSSLint Rules](https://github.com/CSSLint/csslint/wiki/rules)
 * [HTMLHint Rules](https://github.com/yaniswang/HTMLHint/wiki/Rules)
