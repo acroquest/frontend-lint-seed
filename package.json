@@ -1,7 +1,7 @@
 {
   "name": "frontend-lint-seed",
   "description": "starter skeleton for frontend projects",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "Kenichiro Murata",
   "bugs": {
     "url": "https://github.com/acroquest/frontend-lint-seed/issues"
@@ -11,7 +11,7 @@
     "gulp": "^3.9.1",
     "gulp-eslint": "^2.0.0",
     "gulp-htmlhint": "^0.3.1",
-    "gulp-htmlhint-checkstyle-file-reporter": "^0.1.0",
+    "gulp-htmlhint-checkstyle-file-reporter": "^0.2.0",
     "gulp-load-plugins": "^1.2.2",
     "gulp-shell": "^0.5.2",
     "mkdirp": "^0.5.1",
