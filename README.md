@@ -1,5 +1,6 @@
 # frontend-lint-seed
-starter skeleton for lintable and Jenkins friendly frontend projects.
+This is a skeleton project to create development environment which enables lint for HTML, CSS, JavaSscript.
+You can confirm lint errors in VS Code easily, and export them to Jenkins as XML in Checkstyle format.
 
 ## Setup
 
